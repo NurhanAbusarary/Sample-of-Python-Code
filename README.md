@@ -1,4 +1,4 @@
-# Sample-of-Python-Code
+# Sample of Python Code
 
 This is a sample code written in Python. This code is a part of my dissertation titled "Automatic Short Answers Grading System". The aim is to create a system that can be used to help human graders (teachers) in the scoring process by creating software that can be as close as to what humans do as well as requires the least software and time. The system is based on Natural Language Processing (NLP) and multiple Machine Learning techniques. In this respiratory, there is a sample code of the project.
 
