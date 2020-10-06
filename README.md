@@ -6,6 +6,6 @@ The directory contains the following files:
 
 * _dataset_: it contains the dataset used to experiment with the system before preprocessing it.
 * _data_: it contains the data after preprocessing to be used later.
-* _utils_: it contains a utils.py file that has the common functions including the NLP functions.
+* _utils_: it contains a utils.py file that has common functions including the NLP functions.
 * _Powergrading_Preprocessing.ipynb_: it is used to preprocess the Powergrading dataset.
 * _XGBoost_Powergrading.ipynb_: it contains the machine learning algorithm XGBoost, which is one of the algorithms used to design the system.
