@@ -15,8 +15,6 @@ import pandas as pd
 
 from xml.dom import minidom
 
-from LSTM_GLOVE import Glove
-
 from bs4 import BeautifulSoup
 
 from nltk.corpus import wordnet
@@ -28,7 +26,6 @@ from keras.preprocessing.sequence import pad_sequences
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 
 
-glove      = Glove()
 lemmatizer = WordNetLemmatizer()
 
 
